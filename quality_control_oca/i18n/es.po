@@ -168,7 +168,7 @@ msgstr "Compañía"
 #: model:ir.model.fields,field_description:quality_control_oca.field_qc_inspection__date_done
 #: model_terms:ir.ui.view,arch_db:quality_control_oca.qc_inspection_search_view
 msgid "Completion Date"
-msgstr ""
+msgstr "Fecha de finalización"
 
 #. module: quality_control_oca
 #: model:ir.ui.menu,name:quality_control_oca.menu_qc_config
@@ -670,7 +670,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:quality_control_oca.field_qc_inspection__date
 #: model_terms:ir.ui.view,arch_db:quality_control_oca.qc_inspection_search_view
 msgid "Plan Date"
-msgstr ""
+msgstr "Fecha planificada"
 
 #. module: quality_control_oca
 #: model:ir.model,name:quality_control_oca.model_qc_test_question_value
